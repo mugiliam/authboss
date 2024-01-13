@@ -2,7 +2,7 @@ module github.com/mugiliam/authboss/v3
 
 go 1.20
 
-replace github.com/volatiletech/authboss/v3 => github.com/mugiliam/authboss v3.0.0
+replace github.com/volatiletech/authboss/v3 => github.com/mugiliam/authboss/v3 v3.0.0
 
 require (
 	github.com/friendsofgo/errors v0.9.2
